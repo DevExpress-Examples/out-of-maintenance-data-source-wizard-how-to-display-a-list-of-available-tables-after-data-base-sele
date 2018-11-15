@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ConfigureQueryPageEx.cs](./CS/DSWizardQueryTables/ConfigureQueryPageEx.cs) (VB: [ConfigureQueryPageEx.vb](./VB/DSWizardQueryTables/ConfigureQueryPageEx.vb))
+* [ConfigureQueryPageViewEx.cs](./CS/DSWizardQueryTables/ConfigureQueryPageViewEx.cs) (VB: [ConfigureQueryPageViewEx.vb](./VB/DSWizardQueryTables/ConfigureQueryPageViewEx.vb))
+* [DataSourceWizardCustomization.cs](./CS/DSWizardQueryTables/DataSourceWizardCustomization.cs) (VB: [DataSourceWizardCustomization.vb](./VB/DSWizardQueryTables/DataSourceWizardCustomization.vb))
+* [Form1.cs](./CS/DSWizardQueryTables/Form1.cs) (VB: [Form1.vb](./VB/DSWizardQueryTables/Form1.vb))
+* [Program.cs](./CS/DSWizardQueryTables/Program.cs) (VB: [Program.vb](./VB/DSWizardQueryTables/Program.vb))
+<!-- default file list end -->
 # Data Source Wizard - How to display a list of available tables after data base selection
 
 
